@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GrindSkulls:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrindSkulls_jar</output-path>
+    <root id="archive" name="GrindSkulls.jar">
+      <element id="module-output" name="GrindSkulls" />
+    </root>
+  </artifact>
+</component>

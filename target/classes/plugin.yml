@@ -1,0 +1,6 @@
+name: GrindSkulls
+version: 1.0-SNAPSHOT
+main: me.darkboy.skulls.GrindSkulls
+api-version: 1.13
+authors: [Untitlxd_]
+description: Grind Skulls Plugin
